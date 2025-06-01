@@ -1,7 +1,7 @@
 # IPL Auction Dashboard — Google Sheets & Apps Script Project
 
-![Google Sheets](https://img.shields.io/badge/[Google%20Sheets-43AA8B?style=for-the-badge&logo=google-sheets&logoColor=white](https://docs.google.com/spreadsheets/d/1QfBDIf8kStw_LIwUO5CrcCBPldqJ5jZv-W8yf6KBRNo/edit?usp=sharing)
-![Google Apps Script](https://img.shields.io/badge/[Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white](https://script.google.com/u/0/home/projects/1qsJ1kD1Z7Y1gapSboWncx4jMeDiaqq7Bn_x1ZtXAm8qN7vqvUOIYSecN/edit)
+[![Google Sheets](https://img.shields.io/badge/Google%20Sheets-43AA8B?style=for-the-badge&logo=google-sheets&logoColor=white)](https://[your-link-here](https://docs.google.com/spreadsheets/d/1QfBDIf8kStw_LIwUO5CrcCBPldqJ5jZv-W8yf6KBRNo/edit?usp=sharing))
+[![Google Apps Script](https://img.shields.io/badge/Google%20Apps%20Script-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://[your-link-here](https://script.google.com/u/0/home/projects/1qsJ1kD1Z7Y1gapSboWncx4jMeDiaqq7Bn_x1ZtXAm8qN7vqvUOIYSecN/edit))
 
 ---
 
