@@ -66,7 +66,7 @@ This project automates these workflows to:
 ---
 ## IPL AUCTION DASHBOARD:
 
-![Auction Dashboard](IPLAUCTION.png)
+![Auction Dashboard](IPLAUCTION.PNG)
 
 ![Auction Dashboard](IPLDASHBOARD1.PNG)
 
