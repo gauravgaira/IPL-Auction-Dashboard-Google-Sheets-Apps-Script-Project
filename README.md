@@ -64,6 +64,11 @@ This project automates these workflows to:
 - Currency and data formatting ensure clarity.
 
 ---
+## IPL AUCTION DASHBOARD:
+
+![Auction Dashboard](IPLAUCTION.png)
+
+![Auction Dashboard](IPLDASHBOARD1.PNG)
 
 ## Technical Details
 
